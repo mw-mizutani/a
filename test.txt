@@ -2,4 +2,4 @@ test file
 Study hard!!!!!
 
 hello.
-add
+added
