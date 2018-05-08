@@ -2,4 +2,6 @@ test file
 git flow test3
 Study hard!!!!!
 test3
+git-flow test2
+test test
 hello.
